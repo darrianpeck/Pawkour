@@ -1,0 +1,22 @@
+{
+    "name": "decode PWA example",
+    "short_name": "decode PWA example",
+    "start_url": ".",
+    "background_color": "#1F62B3",
+    "theme_color": "#FEF2D7",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/doghouseIcon120.png",
+            "sizes": "150x150",
+            "type": "image/png",
+            "purpose": "maskable" 
+        },
+
+        {
+            "src": "images/doghouseIcon512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
